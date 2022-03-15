@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.exe
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.deps.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.runtimeconfig.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\bin\Debug\net5.0\MaxStringValue.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.AssemblyInfo.cs
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\refint\MaxStringValue.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\MaxStringValue.genruntimeconfig.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxStringValue\MaxStringValue\obj\Debug\net5.0\ref\MaxStringValue.dll
