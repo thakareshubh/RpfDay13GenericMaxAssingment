@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.exe
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.deps.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.runtimeconfig.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\bin\Debug\net5.0\MaxNumberProject.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.AssemblyInfo.cs
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\refint\MaxNumberProject.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\MaxNumberProject.genruntimeconfig.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\MaxNumberProject\MaxNumberProject\obj\Debug\net5.0\ref\MaxNumberProject.dll
