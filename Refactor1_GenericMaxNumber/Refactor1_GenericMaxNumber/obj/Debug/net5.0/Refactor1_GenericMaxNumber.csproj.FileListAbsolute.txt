@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.exe
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.deps.json
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.runtimeconfig.json
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\bin\Debug\net5.0\Refactor1_GenericMaxNumber.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.AssemblyInfo.cs
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\refint\Refactor1_GenericMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\Refactor1_GenericMaxNumber.genruntimeconfig.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\Refactor1_GenericMaxNumber\Refactor1_GenericMaxNumber\obj\Debug\net5.0\ref\Refactor1_GenericMaxNumber.dll
