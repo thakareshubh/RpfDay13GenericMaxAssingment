@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.exe
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.deps.json
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.runtimeconfig.json
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\bin\Debug\net5.0\FloatMaxNumber.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.AssemblyInfo.cs
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\refint\FloatMaxNumber.dll
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.pdb
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\FloatMaxNumber.genruntimeconfig.cache
+E:\.net\Rpf-120-Day13MaxNumberProject\FloatMaxNumber\FloatMaxNumber\obj\Debug\net5.0\ref\FloatMaxNumber.dll
